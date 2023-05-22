@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+   *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+   }
+
+body{
+font-size: 'Playfair Display', serif;
+color:blueviolet;
+display: flex;
+align-items:center;
+justify-content: center;
+width: 200px;
+height: 100px;
+flex-wrap: wrap;
+font-size: 20px
+
+}
+
+button {
+width: 200;
+height: 100;
+border-radius: 60px;
+font-size: 'Playfair Display' , serif;
+background-color: brown;
+cursor:pointer;
+
+}
+
+
+   
+
+
+
